@@ -1,0 +1,7 @@
+
+{
+  "name": "opencart-demo",
+  "baseUrl": "https://awesomeqa.com/ui",
+  "application": "OpenCart",
+  "environment": "demo"
+}
